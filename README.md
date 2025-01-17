@@ -14,6 +14,10 @@
 
 ### 🔧 Herramientas del oficio  
 
+💻 Backend: Node.js, Python, MySQL
+🌐 Frontend: React, TailwindCSS
+🔒 Seguridad: JWT, OAuth2
+🛠️ Otros: Docker, Git, Linux
 ---
 
 ### ⚔️ Proyectos  
