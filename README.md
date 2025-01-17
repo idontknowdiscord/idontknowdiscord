@@ -6,4 +6,5 @@
 - **discord**: idontknowtelegram 
 
 
+
 > 💬 _"En este mundo, solo sobrevive quien sabe cómo jugar sus cartas."_  
