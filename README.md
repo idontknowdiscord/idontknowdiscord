@@ -1,5 +1,4 @@
-# 22 Son los rebeldes.
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=22+son+los+rebeldes)](https://git.io/typing-svg)
 ### 
 - **tg**: t.me/@idontknowdiscord 
 - **channeltg**: t.me/aeroportuarialog
