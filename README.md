@@ -10,4 +10,4 @@
 <div align=center>
 
 
-> 💬 _"En este mundo, solo sobrevive quien sabe cómo jugar sus cartas."_  
+ _"En este mundo, solo sobrevive quien sabe cómo jugar sus cartas."_  
