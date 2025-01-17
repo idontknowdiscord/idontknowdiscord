@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=22+son+los+rebeldes)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&width=435&lines=22+SON+LOS+REBELDES;t.me%2Faeroportuarialog)](https://git.io/typing-svg)
 ### 
 - **tg**: t.me/@idontknowdiscord 
 - **channeltg**: t.me/aeroportuarialog
